@@ -88,7 +88,6 @@ Suppliers handling networking systems and infrastructure components frequently r
 Facilities processing large orders often benefit from custom configurations designed to accommodate changing product dimensions. Reinforced construction contributes to smoother handling activities and more reliable freight preparation.
 
 Proper packaging arrangements support logistics operations and simplify receiving procedures at destination facilities.
-```
 
 ### Commercial Printing Machinery Transport
 
@@ -249,5 +248,5 @@ Yes. bluerose packaging provides bulk manufacturing programs for organizations r
 Reliable packaging materials play an important role in supporting international transportation activities and protecting valuable cargo throughout distribution procedures. Durable wooden crate systems provide structural integrity while simplifying freight preparation and handling operations.
 
 Choose bluerose packaging for export-ready wooden crate solutions manufactured to deliver consistent quality, flexible configurations, and dependable support for demanding global shipping environments.
-```
+
 
